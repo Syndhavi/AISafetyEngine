@@ -1,0 +1,11 @@
+venv/
+.vscode/
+
+backend/models/
+backend/data/
+
+*.pth
+*.pkl
+*.gguf
+__pycache__/
+*.pyc
